@@ -13,4 +13,3 @@ https://app.powerbi.com/view?r=eyJrIjoiZTUzNjUyYjAtNjY4YS00YTc3LTljNDMtMTIyYWRhM
 - Leveraged advanced BI tools and techniques, ensuring data accuracy, visualization clarity, and actionable insights to guide business strategy.
 - Played a pivotal role in empowering Fashionista to make data-driven decisions, optimize product offerings, and enhance sales and profitability.
 
-This project highlights your expertise in data analysis, business intelligence, and your ability to translate complex datasets into actionable insights to drive business growth for a fashion startup on Amazon.
