@@ -11,13 +11,13 @@ Utilized Tableau to create data-driven dashboards and reports to assist individu
 - Identification of the DRG with the highest discharges.
 - Determination of the body system with the highest discharges.
 - Development of a Discharges Dashboard enabling users to:
-- Select a specific DRG.
-- Choose to view states within the continental USA only.
-- Select a time period.
-- Visualize a map of states with total discharges.
+  - Select a specific DRG.
+  - Choose to view states within the continental USA only.
+  - Select a time period.
+  - Visualize a map of states with total discharges.
 - Creation of a Hospital Finder Dashboard (2015 data only) allowing users to:
-- Select their DRG of interest.
-- Input their budget (average total payment) via a slider.
-- View a map of hospitals serving the chosen DRG.
-- Access a table displaying hospitals along with relevant coverage statistics.
+  - Select their DRG of interest.
+  - Input their budget (average total payment) via a slider.
+  - View a map of hospitals serving the chosen DRG.
+  - Access a table displaying hospitals along with relevant coverage statistics.
 This project showcased strong data analytics and visualization skills, as well as the ability to provide valuable insights in the healthcare and financial sectors.
